@@ -1,0 +1,9 @@
+# Marketing-Mix-Modeling
+#Marketing Mix modeling  #it is a statistical Analysis such as multiple liner regression to estimate the impact of marketing mix on sales and then forcast the impact of other #variables
+its often used to optimize advertising mix and promotional tactics with respect to sales revenue or profit.for example , Sales is a dependent variable & independent variables can 
+#be pricing,distribution, spent on media , discount & promotion
+#so eqaution is: sales = a*pricing+b* distribution + c* media+ d* discount+ e* promotion+ intercept
+#for example advertising mix = a*tv advertising+ intercept
+
+ we have to increase the sales, Marketing mis a combination of all imp factors like,pricing, distribution, promotion,place,people ,product
+Result  : My model fit accuracy is 89%
